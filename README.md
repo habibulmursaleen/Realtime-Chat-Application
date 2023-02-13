@@ -45,4 +45,3 @@ Please follow the below instructions to run this project in your machine:
 ## Inspiration
 
 This project was followed and inspired by Learn with Sumit YouTube Channel and done solely for learning purposes. # Realtime-Chat-Application
-# Realtime-Chat-Application
